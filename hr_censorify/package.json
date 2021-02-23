@@ -1,0 +1,19 @@
+{
+    "author": "Heru Ramdhani",
+    "name": "hr_censorify",
+    "version": "0.1.1",
+    "description": "Heru nyoba Censors words out of text",
+    "main": "censortext",
+    "repository": {
+        "type": "git",
+        "url": "https: //github.com/heruramdhanifahtadinata/hr_learnAngular/hr_censorify"
+    },
+    "keywords": [
+        "censor",
+        "words"
+    ],
+    "dependencies": {},
+    "engines": {
+        "node": "*"
+    }
+}
